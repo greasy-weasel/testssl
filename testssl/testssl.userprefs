@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F96EC988-5E7B-4C55-B360-1104455D8E86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testssl.cs">
+    <Files>
+      <File FileName="testssl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testssl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

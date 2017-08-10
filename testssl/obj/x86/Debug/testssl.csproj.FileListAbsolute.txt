@@ -1,0 +1,5 @@
+/Users/gilesbarford/Projects/testssl/testssl/bin/Debug/testssl.exe
+/Users/gilesbarford/Projects/testssl/testssl/bin/Debug/testssl.pdb
+/Users/gilesbarford/Projects/testssl/testssl/obj/x86/Debug/testssl.csproj.CoreCompileInputs.cache
+/Users/gilesbarford/Projects/testssl/testssl/obj/x86/Debug/testssl.exe
+/Users/gilesbarford/Projects/testssl/testssl/obj/x86/Debug/testssl.pdb
